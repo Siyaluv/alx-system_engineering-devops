@@ -1,2 +1,2 @@
-#!bin/bash
-grep -i "root -A 3 /ect/passwd
+#!/bin/bash
+grep -i "bi /ect/passwd
